@@ -1,4 +1,4 @@
-<h2 align="left">Hello World! I'm Andrey, Russian Developer👋!</h2>
+<h2 align="left">Hello World! I'm Andrew, Russian Developer👋!</h2>
 
 ###
 
