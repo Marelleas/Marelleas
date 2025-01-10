@@ -17,3 +17,11 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/iJJ6E58EttmFqgLo96/giphy.gif?cid=82a1493bcw5kufcsb8kml3gm2hmz4n33p0c0wbxthmp57hx8&ep=v1_gifs_trending&rid=giphy.gif&ct=g"  />
 
+
+
+<br><br><br><br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Marelleas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Marelleas&icon=0&color=0)](https://visitcount.itsvg.in)
