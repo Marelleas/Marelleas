@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am currently studying at CHOMLI, developing myself in the field of programming.</p>
+<p align="left">I am 17 years old and currently studying at CHOMLI, developing myself in the field of programming.</p>
 
 ###
 
